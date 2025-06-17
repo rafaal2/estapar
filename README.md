@@ -56,8 +56,7 @@ spring.datasource.password=<senha>
 # ./mvnw clean package && java -jar target/estapar-0.0.1-SNAPSHOT.jar
 ```
 
-A API inicia em [**http://localhost:8080**](http://localhost:8080).\
-Se usar *springdoc*, Swagger UI estará em **/swagger‑ui.html**.
+A API inicia em [**http://localhost:8080**](http://localhost:8080).
 
 ---
 
